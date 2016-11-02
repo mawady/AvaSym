@@ -1,5 +1,6 @@
 # AvaSym
 Global Symmetry Ground-truth for AVA dataset
+
 Release Date: 2016
 
 For detailed information, please refer to:
