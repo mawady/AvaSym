@@ -4,7 +4,7 @@ Global Symmetry Ground-truth for AVA dataset
 Release Date: 2016
 
 
-For detailed information, please refer to:
+Users of this software are encouraged to cite the following article:
 
 Elawady, Mohamed, Cécile Barat, Christophe Ducottet, and Philippe Colantoni. "Global Bilateral Symmetry Detection Using Multiscale Mirror Histograms." In International Conference on Advanced Concepts for Intelligent Vision Systems, pp. 14-24. Springer International Publishing, 2016.
 
